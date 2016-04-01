@@ -1,0 +1,45 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 05/03/2015, 17:25:22
+    Author     : Loki
+*/
+
+.navbar{
+    border-radius: 0px;
+    margin-bottom: 0px;
+}
+
+.button{
+    margin: 0;
+}
+
+.panel{
+    margin: auto;
+    margin-top: 10px;
+}
+
+.login{
+	margin: auto;
+	margin-top:70px;
+	padding: 20px ;
+	width: 400px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+}
+
+.selected{
+    background-color: rgba(150,150,150,0.5);
+}
+.panel-heading{
+    padding: 5px 15px;
+}
+h3 {
+    width: 95%;
+    margin: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
